@@ -1,4 +1,5 @@
 I. Online Retail Data
+
 This project analyzes data on customers from the west eauropean countries, for the online retail company based in the UK. It focuses on the exploration of the main metrics like:
 - revenue growth rate
 - active customers count
@@ -12,6 +13,7 @@ The credit for Barış Karaman, on whose article in "Toward Data Science", this 
 Nevertheless, I have used different countried for the analysis and calculation/ visualization techniques.
 
 II. Mall Customers Analysis
+
 This project analyzes fictional small dataset on mall customers that consists of 200 observations and 5 variables. It focuses on the exploration of the customer demographics:
 - gender distribution
 - age distribution (alone and by gender)
